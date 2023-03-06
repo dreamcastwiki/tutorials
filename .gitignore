@@ -4,4 +4,7 @@
 *.srec
 *.exe
 *.elf
+*.cdi
+*.zip
 .DS_Store
+.keepme
