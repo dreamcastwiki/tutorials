@@ -6,5 +6,6 @@
 *.elf
 *.cdi
 *.zip
+*.img
 .DS_Store
 .keepme
